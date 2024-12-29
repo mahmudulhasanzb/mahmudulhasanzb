@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Mahmudul Hasan
+- 👀 I’m interested in web development, app development, cybersecurity, and entrepreneurship.  
+- 🌱 I’m currently learning Python, Django, and tools like Kali Linux for cybersecurity.  
+- 💞️ I’m looking to collaborate on innovative projects related to web and app development, cybersecurity, and business ideas.  
+- 📫 How to reach me: connect with me on [LinkedIn](https://linkedin.com/in/mahmudulhasanzb).
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I believe every line of code is a step closer to building my next big business idea!
