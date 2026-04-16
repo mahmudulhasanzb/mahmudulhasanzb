@@ -94,7 +94,7 @@ const hasan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
