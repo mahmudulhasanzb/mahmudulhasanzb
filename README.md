@@ -13,11 +13,11 @@
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mahmudulhasanzb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmudulhasanzb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudulhasankk9@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mahmudulhasanzb)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/mahmudulhasanzb)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mahmudulhasanzb)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudulhasankk9@gmail.com)
 
 </div>
 
@@ -59,12 +59,12 @@ const hasan = {
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
-
+<!-- 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <!-- <td width="50%">
+   <td width="50%">
       <h3 align="center">CollabMate</h3>
       <p align="center">
         A real-time collaboration tool built with React, Node.js & MongoDB. Designed to streamline team workflows with AI-powered features.
@@ -74,7 +74,7 @@ const hasan = {
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-    </td> -->
+    </td>
     <td width="50%">
       <h3 align="center">The Hype AI</h3>
       <p align="center">
@@ -87,23 +87,19 @@ const hasan = {
       </p>
     </td>
   </tr>
-</table>
+</table> 
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulhasanzb&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmudulhasanzb&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
