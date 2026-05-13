@@ -1,96 +1,114 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
-██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
-███████║███████║███████╗███████║██╔██╗ ██║
-██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║███████║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmudul%20Hasan&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Junior%20Web%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=a89fd4&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Next.js+Builder;AI+Enthusiast+%26+Newsletter+Writer;Always+learning%2C+always+shipping." alt="Typing SVG" />
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmudulhasanzb)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudulhasankk9@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mahmudulhasanzb)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/mahmudulhasanzb)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mahmudulhasanzb)
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0f0c29?style=for-the-badge&logoColor=e0d7ff)](https://mahmudulhasan.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=e0d7ff)](https://linkedin.com/in/mahmudulhasanzb)&nbsp;
+[![GitHub](https://img.shields.io/badge/◈%20GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=e0d7ff)](https://github.com/mahmudulhasanzb)&nbsp;
+[![Email](https://img.shields.io/badge/◈%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff)](mailto:[mahmudulhasankk9@gmail.com])
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Z6xpr4Tf87vsaVYpHnuo_sjRXlkuPqNU/view?usp=sharing)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Junior+Web+Developer+%E2%9C%A6;%E2%9C%A6+AI+Enthusiast+%E2%9C%A6;%E2%9C%A6+Problem+Solver+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%E2%9C%A6"/>
 </div>
 
 ---
 
 ## 👾 About Me
 
-```ts
-const hasan = {
-  name: "Mahmudul Hasan",
-  location: "Bangladesh 🇧🇩",
-  role: "Frontend Developer",
-  currentlyLearning: ["Next.js", "AI Automation", "n8n"],
-  building: ["Portfolio Website", "The Hype AI Newsletter"],
-  funFact: "I have extreme FOMO about learning new tech 😅",
-  askMeAbout: ["React", "Next.js", "Tailwind CSS", "AI trends"],
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```javascript
+const mahmudul = {
+    location: "📍 Bangladesh",
+    role: "Junior Web Developer",
+    focus: "Building modern web applications",
+    experience: "Working on real-world projects",
+    specialization: ["Frontend"],
+    currentlyLearning: ["Advanced Backend", "System Design", "AI"],
+    hobbies: ["Coding", "Learning new tech", "Building side projects"]
+};
+
+// My Mission
+const mission = () => {
+    return "To build scalable, user-friendly applications
+            and grow into a top-level full stack developer";
 };
 ```
 
----
+</td>
 
-## 🛠️ Tech Stack
+<!-- <td width="45%" valign="top">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🎯 What I Do
 
-### Tools & Platforms
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+💻 **Build Web Apps** Creating modern full-stack applications with clean
+interfaces
 
----
-<!-- 
-## 🚀 Featured Projects
+⚡ **Focus on Performance** Writing efficient code with a smooth user experience
 
-<table>
-  <tr>
-   <td width="50%">
-      <h3 align="center">CollabMate</h3>
-      <p align="center">
-        A real-time collaboration tool built with React, Node.js & MongoDB. Designed to streamline team workflows with AI-powered features.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">The Hype AI</h3>
-      <p align="center">
-        A weekly newsletter & blog covering the latest in AI — tools, trends, and breakthroughs — curated for curious minds.
-      </p>
-      <p align="center">
-        <a href="https://www.linkedin.com/newsletters/the-hype-ai-7405337715531124737">
-          <img src="https://img.shields.io/badge/Read_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table> 
+🎨 **Design with Care** Making UI simple, usable, and visually balanced
+
+📈 **Keep Improving** Learning new tools, patterns, and best practices
+
+🤝 **Open to Collaboration** Ready to work on impactful products and teams
+
+</td> -->
+
+</tr>
+</table>
 
 ---
--->
+
+## ❖ Tech Stack & Expertise
+
+<div align="center">
+
+### ◈ Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=3670A0)
+
+### ◈ Frontend
+
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f0c29?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### ◈ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-0f0c29?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0f0c29?style=for-the-badge&logoColor=white)
+
+### ◈ Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -104,29 +122,58 @@ const hasan = {
 
 ---
 
-## ✍️ The Hype AI — Newsletter
-
-> **Staying sharp in the AI age, one issue at a time.**
-
-I run [**The Hype AI**](https://www.linkedin.com/newsletters/the-hype-ai-7405337715531124737) — a newsletter where I break down AI tools, trends, and breakthroughs in a way that's actually useful for developers and curious minds. No fluff, just signal.
-
----
-
-## 📬 Let's Connect
+### ◈ &nbsp;Contribution Graph
 
 <div align="center">
 
-Got a project idea, collab opportunity, or just want to talk tech?
-
-**📧 mahmudulhasankk9@gmail.com**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hasan.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1zGdVuGwDc2nFHlfT0zPp2BXbLVAw1NPksx3-Vvhc3sc/edit?tab=t.0)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulhasanzb&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/mahmudulhasanzb)
 
 </div>
 
 ---
 
+## ❖ Competitive Coding
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmudulhasanzb&label=Profile+Views&color=1E90FF&style=flat-square" />
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/mahmudulhasanzb/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-0f0c29?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/mahmudulhasanzb) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-0f0c29?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/your-username) 
+
+---
+
+## ❖ Open to Collaboration
+
+<div align="center">
+
+> **I am open to working on exciting projects, building useful products, and
+> collaborating with driven teams.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=9D8FFF)](https://linkedin.com/in/mahmudulhasanzb) 
+[![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](mailto:[mahmudulhasankk9@gmail.com]) 
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=9D8FFF)](https://mahmudulhasanzb.vercel.app/)
+
+</div>
+
+<br/>
+
+> **✍️
+> [The Hype AI](https://www.linkedin.com/newsletters/the-hype-ai-7405337715531124737)
+> — Newsletter | AI tools, trends, and breakthroughs for curious minds. No
+> fluff, just signal.**
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahmudulhasanzb&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c20&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=a89fd4&fontAlignY=65&animation=fadeIn" />
+
 </div>
