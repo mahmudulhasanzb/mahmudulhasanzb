@@ -111,13 +111,12 @@ interfaces
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center"> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&icon_color=c084fc&text_color=e0d7ff" height="170" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=radical&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&text_color=e0d7ff" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulhasanzb&theme=tokyonight&hide_border=true" />
+<div align="center"> 
+    <img src="https://streak-stats.demolab.com?user=mahmudulhasanzb&theme=tokyonight&hide_border=true&background=0D1117&ring=9D8FFF&fire=C084FC&currStreakLabel=E0D7FF&sideLabels=E0D7FF&dates=A89FD4" /> 
 </div>
 
 ---
