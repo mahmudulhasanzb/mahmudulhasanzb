@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=e0d7ff)](https://linkedin.com/in/mahmudulhasanzb)&nbsp;
 [![GitHub](https://img.shields.io/badge/◈%20GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=e0d7ff)](https://github.com/mahmudulhasanzb)&nbsp;
 [![Email](https://img.shields.io/badge/◈%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff)](mailto:[mahmudulhasankk9@gmail.com])
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Z6xpr4Tf87vsaVYpHnuo_sjRXlkuPqNU/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1b6J60Ig0KlOXgCH6w6f8GRjYyTw65-N4/view?usp=drivesdk)
 
 </div>
 
