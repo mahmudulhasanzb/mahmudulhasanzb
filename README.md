@@ -116,7 +116,7 @@ interfaces
 </div>
 
 <div align="center"> 
-    <img src="https://streak-stats.demolab.com?user=mahmudulhasanzb&theme=tokyonight&hide_border=true&background=0D1117&ring=9D8FFF&fire=C084FC&currStreakLabel=E0D7FF&sideLabels=E0D7FF&dates=A89FD4" /> 
+    <img src="https://streak-stats.demolab.com/?user=mahmudulhasanzb&theme=tokyonight&hide_border=true&background=0D1117&ring=9D8FFF&fire=C084FC&currStreakLabel=E0D7FF&sideLabels=E0D7FF&dates=A89FD4" /> 
 </div>
 
 ---
