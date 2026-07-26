@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Junior+Web+Developer+%E2%9C%A6;%E2%9C%A6+AI+Enthusiast+%E2%9C%A6;%E2%9C%A6+Problem+Solver+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%E2%9C%A6"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6;%E2%9C%A6+AI+Enthusiast+%E2%9C%A6;%E2%9C%A6+Problem+Solver+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%E2%9C%A6"/>
 </div>
 
 ---
@@ -34,7 +34,7 @@
 ```javascript
 const mahmudul = {
     location: "📍 Bangladesh",
-    role: "Junior Web Developer",
+    role: "Full-Stack Developer",
     focus: "Building modern web applications",
     experience: "Working on real-world projects",
     specialization: ["Frontend"],
