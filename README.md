@@ -112,7 +112,7 @@ interfaces
 ## 📊 GitHub Stats
 
 <div align="center"> 
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&icon_color=c084fc&text_color=e0d7ff" height="170" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=radical&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&text_color=e0d7ff" height="170" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&icon_color=c084fc&text_color=e0d7ff" height="170" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=radical&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&text_color=e0d7ff" height="170" />
 </div>
 
 <div align="center"> 
@@ -125,7 +125,7 @@ interfaces
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulhasanzb&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/mahmudulhasanzb)
+[![Contribution Graph](https://activity-graph.vercel.app/graph?username=mahmudulhasanzb&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/mahmudulhasanzb)
 
 </div>
 
