@@ -155,13 +155,13 @@ interfaces
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=9D8FFF)](https://mahmudulhasanzb.vercel.app/)
 
 </div>
-
-<!-- <br/>
+<!-- -->
+<br/>
 
 > **✍️
 > [The Hype AI](https://www.linkedin.com/newsletters/the-hype-ai-7405337715531124737)
 > — Newsletter | AI tools, trends, and breakthroughs for curious minds. No
-> fluff, just signal.** -->
+> fluff, just signal.**
 
 ---
 
