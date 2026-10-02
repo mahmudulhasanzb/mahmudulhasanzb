@@ -157,14 +157,14 @@ interfaces
 </div>
 <!-- -->
 
-<!--
+
 <br/>
 
 > **✍️
 > [The Hype AI](https://www.linkedin.com/newsletters/the-hype-ai-7405337715531124737)
 > — Newsletter | AI tools, trends, and breakthroughs for curious minds. No
 > fluff, just signal.**
--->
+
 ---
 
 <div align="center">
